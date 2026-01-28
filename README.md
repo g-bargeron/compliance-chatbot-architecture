@@ -9,7 +9,7 @@ The full implementation (backend service, indexing pipeline, and runtime logic) 
 
 https://github.com/g-bargeron/internal-compliance-chatbot/tree/main
 
-Access is restricted due to internal-use design and data sensitivity. Review access can be provided upon request.
+Access available on request. 
 
 ## Problem This Solves
 Compliance documents tend to be large, static, and hard to search in a reliable way. This tool makes them queryable while keeping answers deterministic and traceable back to the source material.
